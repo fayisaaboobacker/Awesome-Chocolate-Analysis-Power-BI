@@ -16,3 +16,19 @@ Contains five tables
 3. People
 4. Locations
 5. Calender
+
+## BUSINESS TASK ##
+### Data Loading and Cleaning ###
+Data is given as excel file, we need to load it to the power bi. Here data is clean, otherwise we need to tranform data before loading.
+
+### Exploratory Data Analysis ###
+Calculate the Key Performance Indicators
+1. Total Sales
+2. Total Shipment
+3. Total Boxes
+4. Calculate cost and profit
+5. Profit percentage
+6. Count and percentage of low box shipment
+7. Month over month analysis
+8. Year over yaer analysis
+
