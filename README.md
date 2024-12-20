@@ -30,5 +30,5 @@ Calculate the Key Performance Indicators
 5. Profit percentage
 6. Count and percentage of low box shipment
 7. Month over month analysis
-8. Year over yaer analysis
+8. Year over year analysis
 
